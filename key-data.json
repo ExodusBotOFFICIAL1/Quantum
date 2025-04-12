@@ -1,7 +1,16 @@
 {
-    "keys": [
-       {"key": "seed", "expires": "2026-01-31T23:59:59Z"},
-       {"key": "admin", "expires": "2024-06-30T23:59:59Z"},
-       {"key": "SECRETKEY", "expires": "2023-12-31T23:59:59Z"}
-    ]
+  "keys": [
+    {
+      "key": "seed",
+      "expires": "2025-4-12-11:55PM CDT"
+    },
+    {
+      "key": "admin",
+      "expires": "2024-06-30-11:55PM CST"
+    },
+    {
+      "key": "123",
+      "expires": "2023-12-31-11:55PM CST"
+    }
+  ]
 }
